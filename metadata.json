@@ -1,0 +1,6 @@
+{
+  "name": "TARUN — Premium Educational Platform",
+  "description": "Modern educational platform by Tarun: concept-based learning, interactive courses in Mathematics, Science, and Tech, study resources, and student progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
